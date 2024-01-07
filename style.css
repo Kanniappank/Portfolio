@@ -1,0 +1,10 @@
+body{
+    font-family:'Poppins',sans-serif;
+}
+.banner{
+    background-image: url(./Assets/mohammad-rahmani-yRsBZJuhbkk-unsplash.jpg);
+    padding: 150px 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+}
